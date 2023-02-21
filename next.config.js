@@ -2,6 +2,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["cdni.pornpics.de"],
+    domains: ["i.pinimg.com"],
   },
 };
